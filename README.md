@@ -45,7 +45,7 @@ We will try to find the answers for the following questions during our analysis 
 
 4. Suicide VS Sex
 
-<img src = "Images/Suicide VS Sex.png">
+<img src = "Images/Sex VS Suicide Count.png">
 
 5. GDP VS Suicide
 
