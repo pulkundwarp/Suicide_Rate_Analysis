@@ -16,9 +16,6 @@ In this mini-project, we will perform the following steps -
 4. Conclusions <br>
 5. References <br>
 
-
-Finally, I have generated a report to present my findings to the audience using `Google Sites`- <a href = "https://sites.google.com/view/suicide-rate-analysis">https://sites.google.com/view/suicide-rate-analysis</a>
-
 # QUESTIONS FOR ANALYSIS
 
 We will try to find the answers for the following questions during our analysis -
