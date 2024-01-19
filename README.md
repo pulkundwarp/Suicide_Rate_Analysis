@@ -27,6 +27,7 @@ We will try to find the answers for the following questions during our analysis 
 2. Which `country` has the most suicides cases? Which country has the least suicides cases?
 3. Is there any relation with `Age groups` and `Number of Suicide cases`?
 4. What is the relationship between `gender` and the `Number of suicides cases`?
+5. Additional Analysis
 
 
 # RESULTS 
@@ -54,7 +55,10 @@ We will try to find the answers for the following questions during our analysis 
 
 # CONCLUSIONS
 
-1. There was a decrease in suicides toward the '80s. This could be due to awareness of suicide & mental health in the 80s and improved recognition of those at risk. But shortly after that, there was a rise in suicides that we are seeing.
-2. Russian levels of alcohol consumption play an immense role in its large suicide count, but there is a lack of data to support this due to Soviet secrecy.
-3. The data illustrates that middle-aged adults between the ages of 30 through 60 have the highest suicide count. At the same time, the elderly and adolescents have about half the amount of middle-aged adults.
-4. Suicide is one of the leading causes of death among all American adults. Data show alarming differences in suicide for different sexes. Males are more inclined to suicide than females. In addition, Mental health is a significant predictor of suicide.
+1. While suicide rates dipped in the 80s, potentially due to increased awareness and recognition of mental health struggles, they've unfortunately climbed again in recent years.
+
+2. Though lack of Soviet-era data makes it difficult to confirm, Russia's high suicide rate may be linked to widespread alcohol consumption. 
+
+3. The data paints a troubling picture: middle-aged adults (30-60) bear the brunt of suicides, with elderly and adolescents experiencing roughly half the rate.
+
+4. Sadly, suicide ranks high among causes of death for all US adults. Notably, men are significantly more likely to take their own lives than women, with mental health playing a key role in the tragedy. 
