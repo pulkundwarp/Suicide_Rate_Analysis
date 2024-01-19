@@ -2,7 +2,7 @@
 
 # PROJECT DESCRIPTION
 
-As a student who has tackled depression and reading news about suicides all over the world, I have always wondered what factors play a role in suicide. This project seeks to explore the underlying factors. We will use a sample of 44,000 gather data from 141 different Countries, between the 80's to 2016.
+As a student who has tackled depression and reading news about suicides all over the world, I have always wondered what factors play a role in suicide. This project seeks to explore the underlying factors. We will use a sample of 27,000 gather data from 101 different Countries, between the 80's to 2016.
 
  # OVERVIEW
 
