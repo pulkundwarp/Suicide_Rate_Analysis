@@ -2,7 +2,7 @@
 
 # PROJECT DESCRIPTION
 
-From growing up in the heart of Silicon Valley, I have always wondered what was the factors that play a role in Suicide. There have been a plethora of suicide clusters from my High School in Palo Alto. This project seeks to explore the underlying factors. We will use a sample of 44,000 gather data from 141 different Countries, between the 80's to 2016. We would like to make a Machine Learning algorithm where we can train our AI to learn & improve from experience. Thus, we would want to predict the amount of suicides numbers in a certain demographic.
+As a student who has tackled depression and reading news about suicides all over the world, I have always wondered what factors play a role in suicide. This project seeks to explore the underlying factors. We will use a sample of 44,000 gather data from 141 different Countries, between the 80's to 2016.
 
  # OVERVIEW
 
